@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 
 ## Project Structure
    ```base
-   Todo List
+   Todo-List
     ├── src
     │   ├── components
     │   │   ├── Navbar.jsx
