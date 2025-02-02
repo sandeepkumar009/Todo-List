@@ -42,12 +42,12 @@ To run this project locally, follow these steps:
 
 ## Project Structure
    ```base
-   .
+   Todo List
     ├── src
     │   ├── components
     │   │   ├── Navbar.jsx
-    │   └── App.jsx
-    ├── index.css
+    │   ├── App.jsx
+    |   └── index.css
     ├── index.html
     └── package.json
    ```
